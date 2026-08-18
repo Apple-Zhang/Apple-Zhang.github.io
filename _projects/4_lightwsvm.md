@@ -7,7 +7,7 @@ category: Research Code
 related_publications: true
 ---
 
-LighTwSVM is an efficient linear nonparallel support vector machine for million-scale datasets, reducing memory and time usage by **50%** compared with `sklearn.svm.LinearSVC`.
+LighTwSVM is an efficient **drop-in replacement for `sklearn.svm.LinearSVC`**, about **2× faster than LIBLINEAR** with roughly **50% lower memory usage** on million-scale datasets.
 
 [LighTwSVM: Efficient Linear Nonparallel Classifier for Millions of Data](https://github.com/Apple-Zhang/LighTwSVM-paper) (Pattern Recognition 2025, CAS Tier-1).
 

@@ -9,26 +9,26 @@
       value: apple_zjh@163.com
     - name: Phone
       value: (+86) 136-1288-3188
+    - name: Research Focus
+      value: Optimization, large-scale learning, representation learning
     - name: Languages
-      value: Chinese (native), English (CET-6)
+      value: Chinese (native), English (academic writing and communication)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science and Technology (direct admission)
+    - title: PhD in Computer Science and Technology (direct PhD, five-year program)
       institution: Shenzhen University, Shenzhen, China
       year: 2022 -- Present
       description:
-        - School of Computing and Software, Machine Learning direction
-        - GPA 3.8/4.0 (ranked 1st in the major)
-        - 10+ publications, 5 as first author (ICML, IEEE TPAMI, IEEE TNNLS, IEEE TCYB, Pattern Recognition)
+        - College of Computer Science and Software Engineering
+        - 14 publications (5 first-author: 4 in CAS Zone 1, 2 in CCF-A venues), rest collaborative
     - title: B.Eng. in Computer Science and Technology
       institution: Shenzhen University, Shenzhen, China
       year: 2018 -- 2022
       description:
-        - Double-degree experimental class in Mathematics and Computational Sciences
-        - GPA 4.21/4.50 (ranked 1st in the major)
-        - Outstanding Undergraduate, Honorary Bachelor (2022)
+        - Dual-degree program in Math and Computing Science
+        - GPA 4.21/4.50 (Rank 1 in major); Excellent Undergraduate and Honorary Bachelor (2022)
 
 - title: Research Experience
   type: time_table
@@ -37,28 +37,57 @@
       institution: Department of Mathematics, Hong Kong Baptist University, Hong Kong
       year: 2026 -- Present
       description:
-        - Machine learning and large-scale optimization
+        - Optimization, large-scale learning, representation learning
     - title: PhD Candidate
-      institution: School of Computing and Software, Shenzhen University, China
+      institution: College of Computer Science and Software Engineering, Shenzhen University, China
       year: 2022 -- Present
       description:
-        - Research on feature extraction and dimensionality reduction, classification of large-scale data, and low-overhead optimization algorithms
-        - Principal investigator of SZU student innovation projects (2020) and SZU graduate innovation project (2024)
+        - Optimization algorithms, learning on large-scale data, representation learning
+        - Sole / first contributor of two funded research projects (see Research Projects)
 
-- title: Selected Publications (first author)
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Independent Lecturer — Multimedia Technology Fundamentals (top-up bachelor's)
+      institution: School of Continuing Education, Shenzhen University
+      year: 2026 Spring
+      description:
+        - Independently taught the 12-week course (design, slides, lecturing): data compression principles, MPEG/H.264/HEVC video coding
+        - Designed 2 hands-on labs and 3 comprehensive tests, forming a complete teaching–assessment closed loop
+    - title: SVM Special Topic Lecturer (Machine Learning course)
+      institution: Shenzhen University
+      year: 2020 -- 2025
+      description:
+        - Delivered the SVM special topic in the Machine Learning course each year, with lecture notes and recorded videos (SVM-Intro)
+    - title: Teaching Assistant — Machine Learning (undergraduate)
+      institution: Shenzhen University
+      year: 2021 -- 2023
+
+- title: Academic Service
   type: list
   contents:
-    - "J. Zhang and Z. Lai, \"Joker: Joint Optimization Framework for Lightweight Kernel Machines,\" Proc. 42nd Int. Conf. Mach. Learn. (ICML), 2026. (CCF-A) — https://github.com/Apple-Zhang/Joker-paper"
-    - "J. Zhang, Z. Lai, J. Zhou, and G. Liang, \"NPSVC++: A Representation Learning Framework for Nonparallel Classifiers,\" IEEE Trans. Neural Networks Learn. Syst., 2026. (CAS Tier-1) — https://github.com/Apple-Zhang/NPSVCPP"
+    - "Conference reviewer: ICME'24, AAAI'25, ICCV'25, CVPR'26, ICML'26, ACM-MM'26 (11 reviews in total)"
+    - "Journal reviewer: TKDE, T-NNLS, T-PAMI (21 reviews completed)"
+
+- title: Selected Publications (14 total, 5 first-author)
+  type: list
+  contents:
+    - "J. Zhang and Z. Lai, \"Joker: Joint Optimization Framework for Lightweight Kernel Machines,\" Proc. 42nd Int. Conf. Mach. Learn. (ICML), 2025. (CCF-A) — https://github.com/Apple-Zhang/Joker-paper"
+    - "J. Zhang, Z. Lai, J. Zhou, and G. Liang, \"NPSVC++: A Representation Learning Framework for Nonparallel Classifiers,\" IEEE Trans. Neural Networks Learn. Syst., 2026. (CAS Zone 1) — https://github.com/Apple-Zhang/NPSVCPP"
     - "J. Zhang, Z. Lai, H. Kong, and J. Yang, \"Learning the Optimal Discriminant SVM with Feature Extraction,\" IEEE Trans. Pattern Anal. Mach. Intell., vol. 47, no. 4, pp. 2897-2911, 2025. (CCF-A) — https://github.com/Apple-Zhang/ODSVM-paper"
-    - "J. Zhang and Z. Lai, \"LighTwSVM: Efficient Linear Nonparallel Classifier for Millions of Data,\" Pattern Recognition, art. no. 112700, 2025. (CAS Tier-1) — https://github.com/Apple-Zhang/LighTwSVM-paper"
-    - "J. Zhang, Z. Lai, H. Kong, and L. Shen, \"Robust Twin Bounded Support Vector Classifier with Manifold Regularization,\" IEEE Trans. Cybern., vol. 53, no. 8, pp. 5135-5150, 2023. (CAS Tier-1) — https://github.com/Apple-Zhang/RMTBSVM-paper"
+    - "J. Zhang and Z. Lai, \"LighTwSVM: Efficient Linear Nonparallel Classifier for Millions of Data,\" Pattern Recognition, art. no. 112700, 2025. (CAS Zone 1) — https://github.com/Apple-Zhang/LighTwSVM-paper"
+    - "J. Zhang, Z. Lai, H. Kong, and L. Shen, \"Robust Twin Bounded Support Vector Classifier with Manifold Regularization,\" IEEE Trans. Cybern., vol. 53, no. 8, pp. 5135-5150, 2023. (CAS Zone 1) — https://github.com/Apple-Zhang/RMTBSVM-paper"
+    - "F. Chen, J. Zhang, Z. Lai, and H. Kong, \"TaylorNet: Rethinking Monomial-based Graph Neural Networks with Taylor Expansion,\" Pattern Recognition, vol. 172, art. no. 112748, 2026. (CAS Zone 1) [generalization analysis]"
+    - "F. Chen, J. Zhang, G. Liang, and Z. Lai, \"A Design Principle for Graph Neural Networks,\" Pattern Recognition, vol. 174, art. no. 112999, 2026. (CAS Zone 1) [generalization theory]"
+    - "Z. Lai, X. Chen, J. Zhang, H. Kong, and J. Wen, \"Maximal Margin Support Vector Machine for Feature Representation and Classification,\" IEEE Trans. Cybern., vol. 53, no. 10, pp. 6700-6713, 2023. (CAS Zone 1) [optimization verification]"
+    - "F. Chen, Z. Lai, H. Lu, J. Zhang, Q. Wu, X. Luo, and H. Kong, \"NSMNet: Stabilizing Linear State-space Memory for Breast Ultrasound Video Segmentation,\" ACM Multimedia, 2026. (Poster, accepted) [idea formulation]"
+    - "Q. Wu, Z. Lai, X. Luo, H. Kong, F. Chen, J. Zhang, and G. Liang, \"A Large-Scale Multi-Modal Benchmark and Robust Text-Free Inference for Breast Ultrasound Video Segmentation,\" ACM Multimedia, 2026. (Poster, accepted) [problem formulation]"
 
-- title: Research Grants (PI)
+- title: Research Projects (PI)
   type: list
   contents:
-    - "2020-2021, SZU Student Innovation & Development Fund: \"Twin Support Vector Classifier with Robust Manifold Regularization\""
-    - "2024-2025, SZU Graduate Independent Innovation Cultivation Project: \"Efficient Big Data Algorithms Based on Kernel Methods\""
+    - "2024-2025, SZU Graduate Independent Innovation Achievement Cultivation Project: \"Efficient Big Data Algorithms Based on Kernel Methods\" (First Contributor) — produced 2 papers (ICML 2025, Pattern Recognition 2025) with open-sourced code; funded 50,000 CNY; successfully concluded"
+    - "2020-2021, Basic Experimental Project of the Student Innovation and Development Fund of SZU: \"Robust Twin Bounded Support Vector Classifier with Manifold Regularization\" (Sole Contributor) — full loop from proposal to conclusion; produced 1 IEEE TCYB paper with open-sourced code; funded 10,000 CNY; successfully concluded"
 
 - title: Personal Projects
   type: list
@@ -71,15 +100,13 @@
 - title: Awards & Honors
   type: list
   contents:
-    - "2021 SZU \"Double-Innovation Star\" First Prize; 2021 Pengcheng Scholarship"
-    - "2022 Outstanding Undergraduate & Honorary Bachelor, Shenzhen University"
-    - "2021 / 2023 / 2024 Outstanding Doctoral Student Selection & Funding Scholarship, SZU College of Computing and Software"
-    - "2023 Top-Notch Cultivation Program Scholarship, Shenzhen University"
-    - "2020 CUMCM (China) M Award (First Prize); 2020 MCM H Award (Second Prize); 2021 MCM F Award (Special Prize Nomination)"
+    - "2021 Pengcheng Scholarship, Shenzhen University"
+    - "2021, 2024 Scholarship of the Excellent PhD Candidate Selection and Funding Program, College of Computer Science and Software Engineering, SZU"
+    - "2022 Excellent Undergraduate Graduate and Honorary Bachelor, Shenzhen University"
+    - "2023 Scholarship of the Top-Talent Cultivation Program, Shenzhen University"
+    - "2020 MCM Honorable Mention (Second Prize); 2020 CUMCM Meritorious Winner (First Prize); 2021 MCM Finalist (Outstanding Winner nomination, top 2% worldwide)"
 
 - title: Skills
   type: list
   contents:
-    - "Programming: Python, C/C++, MATLAB; PyTorch, NumPy, Pandas, scikit-learn"
-    - "Systems: Linux server / NAS private cloud administration, DevOps, instruction-level optimization (AVX2, OpenMP, cache)"
-    - "Languages: Chinese (native), English (CET-6)"
+    - "Programming: Python, C/C++, MATLAB; PyTorch, NumPy/SciPy, Scikit-learn; Git, Linux"
