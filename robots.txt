@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Apple-Zhang.github.io/sitemap.xml
+Sitemap: https://apple-zhang.github.io/sitemap.xml
