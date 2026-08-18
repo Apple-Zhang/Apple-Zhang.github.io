@@ -1,0 +1,85 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Junhong Zhang (张峻弘)
+    - name: Current Position
+      value: Visiting Research Student, Department of Mathematics, HKBU
+    - name: Email
+      value: apple_zjh@163.com
+    - name: Phone
+      value: (+86) 136-1288-3188
+    - name: Languages
+      value: Chinese (native), English (CET-6)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science and Technology (direct admission)
+      institution: Shenzhen University, Shenzhen, China
+      year: 2022 -- Present
+      description:
+        - School of Computing and Software, Machine Learning direction
+        - GPA 3.8/4.0 (ranked 1st in the major)
+        - 10+ publications, 5 as first author (ICML, IEEE TPAMI, IEEE TNNLS, IEEE TCYB, Pattern Recognition)
+    - title: B.Eng. in Computer Science and Technology
+      institution: Shenzhen University, Shenzhen, China
+      year: 2018 -- 2022
+      description:
+        - Double-degree experimental class in Mathematics and Computational Sciences
+        - GPA 4.21/4.50 (ranked 1st in the major)
+        - Outstanding Undergraduate, Honorary Bachelor (2022)
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Visiting Research Student
+      institution: Department of Mathematics, Hong Kong Baptist University, Hong Kong
+      year: 2026 -- Present
+      description:
+        - Machine learning and large-scale optimization
+    - title: PhD Candidate
+      institution: School of Computing and Software, Shenzhen University, China
+      year: 2022 -- Present
+      description:
+        - Research on feature extraction and dimensionality reduction, classification of large-scale data, and low-overhead optimization algorithms
+        - Principal investigator of SZU student innovation projects (2020) and SZU graduate innovation project (2024)
+
+- title: Selected Publications (first author)
+  type: list
+  contents:
+    - "J. Zhang and Z. Lai, \"Joker: Joint Optimization Framework for Lightweight Kernel Machines,\" Proc. 42nd Int. Conf. Mach. Learn. (ICML), 2026. (CCF-A) — https://github.com/Apple-Zhang/Joker-paper"
+    - "J. Zhang, Z. Lai, J. Zhou, and G. Liang, \"NPSVC++: A Representation Learning Framework for Nonparallel Classifiers,\" IEEE Trans. Neural Networks Learn. Syst., 2026. (CAS Tier-1) — https://github.com/Apple-Zhang/NPSVCPP"
+    - "J. Zhang, Z. Lai, H. Kong, and J. Yang, \"Learning the Optimal Discriminant SVM with Feature Extraction,\" IEEE Trans. Pattern Anal. Mach. Intell., vol. 47, no. 4, pp. 2897-2911, 2025. (CCF-A) — https://github.com/Apple-Zhang/ODSVM-paper"
+    - "J. Zhang and Z. Lai, \"LighTwSVM: Efficient Linear Nonparallel Classifier for Millions of Data,\" Pattern Recognition, art. no. 112700, 2025. (CAS Tier-1) — https://github.com/Apple-Zhang/LighTwSVM-paper"
+    - "J. Zhang, Z. Lai, H. Kong, and L. Shen, \"Robust Twin Bounded Support Vector Classifier with Manifold Regularization,\" IEEE Trans. Cybern., vol. 53, no. 8, pp. 5135-5150, 2023. (CAS Tier-1) — https://github.com/Apple-Zhang/RMTBSVM-paper"
+
+- title: Research Grants (PI)
+  type: list
+  contents:
+    - "2020-2021, SZU Student Innovation & Development Fund: \"Twin Support Vector Classifier with Robust Manifold Regularization\""
+    - "2024-2025, SZU Graduate Independent Innovation Cultivation Project: \"Efficient Big Data Algorithms Based on Kernel Methods\""
+
+- title: Personal Projects
+  type: list
+  contents:
+    - "SVM-Intro: annual offline SVM course since 2020 — multi-version lecture notes (2020-2025), MATLAB/Python code, and recorded lectures"
+    - "strassenMM: efficient Strassen / divide-and-conquer matrix multiplication in C, low memory without multithreading"
+    - "optimize-gemm: GEMM optimization following the FLAME framework (AVX2, OpenMP, cache blocking)"
+    - "MyShell (msh): a custom shell in Linux (command parsing, built-in/external commands, process management)"
+
+- title: Awards & Honors
+  type: list
+  contents:
+    - "2021 SZU \"Double-Innovation Star\" First Prize; 2021 Pengcheng Scholarship"
+    - "2022 Outstanding Undergraduate & Honorary Bachelor, Shenzhen University"
+    - "2021 / 2023 / 2024 Outstanding Doctoral Student Selection & Funding Scholarship, SZU College of Computing and Software"
+    - "2023 Top-Notch Cultivation Program Scholarship, Shenzhen University"
+    - "2020 CUMCM (China) M Award (First Prize); 2020 MCM H Award (Second Prize); 2021 MCM F Award (Special Prize Nomination)"
+
+- title: Skills
+  type: list
+  contents:
+    - "Programming: Python, C/C++, MATLAB; PyTorch, NumPy, Pandas, scikit-learn"
+    - "Systems: Linux server / NAS private cloud administration, DevOps, instruction-level optimization (AVX2, OpenMP, cache)"
+    - "Languages: Chinese (native), English (CET-6)"
