@@ -4,7 +4,6 @@
     "label": "Optimization · Large-scale Learning · Representation Learning",
     "image": "https://apple-zhang.github.io/assets/img/prof_pic.jpg",
     "email": "apple_zjh@163.com",
-    "phone": "+86 136-1288-3188",
     "url": "https://apple-zhang.github.io",
     "summary": "Visiting research student at the Department of Mathematics, HKBU, and PhD candidate in Computer Science at Shenzhen University. Research on optimization, large-scale learning, and representation learning: scalable classification, feature extraction, and computationally efficient optimization algorithms. 14 publications (5 first-author, including ICML and IEEE TPAMI); reviewer for ICML, CVPR, AAAI, ACM-MM and TKDE, TPAMI, TNNLS.",
     "location": {
@@ -30,7 +29,9 @@
       "startDate": "2026-08-18",
       "endDate": "",
       "summary": "Visiting research on optimization, large-scale learning, and representation learning.",
-      "highlights": ["Scalable classification and efficient optimization"]
+      "highlights": [
+        "Scalable classification and efficient optimization"
+      ]
     },
     {
       "name": "Shenzhen University",
@@ -39,7 +40,11 @@
       "startDate": "2022-09-01",
       "endDate": "",
       "summary": "Direct PhD (five-year program) in Computer Science and Technology. 14 publications (5 first-author: 2 CCF-A, 4 CAS Zone 1).",
-      "highlights": ["Optimization algorithms", "Learning on large-scale data", "Representation learning"]
+      "highlights": [
+        "Optimization algorithms",
+        "Learning on large-scale data",
+        "Representation learning"
+      ]
     },
     {
       "name": "Shenzhen University (School of Continuing Education)",
@@ -47,7 +52,9 @@
       "startDate": "2026-02-01",
       "endDate": "2026-07-01",
       "summary": "Independently taught a 12-week course on data compression and MPEG/H.264/HEVC video coding; designed 2 hands-on labs and 3 comprehensive tests.",
-      "highlights": ["Full teaching–assessment closed loop"]
+      "highlights": [
+        "Full teaching–assessment closed loop"
+      ]
     },
     {
       "name": "Shenzhen University",
@@ -85,7 +92,9 @@
       "affiliation": "ICML 2025 (CCF-A), first author",
       "year": 2025,
       "description": "A general nonlinear learning framework for large-scale data via joint optimization of lightweight kernel machines.",
-      "highlights": ["Processes 10M data points on a single consumer-grade GPU with 10 GB memory."],
+      "highlights": [
+        "Processes 10M data points on a single consumer-grade GPU with 10 GB memory."
+      ],
       "url": "https://github.com/Apple-Zhang/Joker-paper"
     },
     {
@@ -93,7 +102,9 @@
       "affiliation": "IEEE TNNLS 2026 (CAS Zone 1), first author",
       "year": 2026,
       "description": "A Pareto-optimal representation learning framework for nonparallel classifiers.",
-      "highlights": ["Improves classification accuracy by 1.5% over conventional cross-entropy."],
+      "highlights": [
+        "Improves classification accuracy by 1.5% over conventional cross-entropy."
+      ],
       "url": "https://github.com/Apple-Zhang/NPSVCPP"
     },
     {
@@ -101,7 +112,9 @@
       "affiliation": "IEEE TPAMI 2025 (CCF-A), first author",
       "year": 2025,
       "description": "An adaptive joint learning model of features and classification.",
-      "highlights": ["Complete convergence analysis and efficient engineering implementation."],
+      "highlights": [
+        "Complete convergence analysis and efficient engineering implementation."
+      ],
       "url": "https://github.com/Apple-Zhang/ODSVM-paper"
     },
     {
@@ -109,7 +122,9 @@
       "affiliation": "Pattern Recognition 2025 (CAS Zone 1), first author",
       "year": 2025,
       "description": "An efficient drop-in replacement for sklearn.svm.LinearSVC.",
-      "highlights": ["About 2× faster than LIBLINEAR with roughly 50% lower memory usage."],
+      "highlights": [
+        "About 2× faster than LIBLINEAR with roughly 50% lower memory usage."
+      ],
       "url": "https://github.com/Apple-Zhang/LighTwSVM-paper"
     },
     {
@@ -117,7 +132,9 @@
       "affiliation": "IEEE TCYB 2023 (CAS Zone 1), first author",
       "year": 2023,
       "description": "A nonparallel classifier integrating a nonconvex robust metric and manifold structure to suppress noise.",
-      "highlights": ["Global convergence guarantee."],
+      "highlights": [
+        "Global convergence guarantee."
+      ],
       "url": "https://github.com/Apple-Zhang/RMTBSVM-paper"
     },
     {
@@ -157,7 +174,9 @@
       "url": "https://github.com/Apple-Zhang/Joker-paper",
       "startDate": "2025-01-01",
       "summary": "Joint optimization framework for lightweight kernel machines (ICML 2025).",
-      "highlights": ["10M data points on a 10 GB consumer GPU."]
+      "highlights": [
+        "10M data points on a 10 GB consumer GPU."
+      ]
     },
     {
       "name": "NPSVC++",
