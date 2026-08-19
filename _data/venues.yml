@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+# Conference/journal abbreviation badges for the publications page
+ICML:
+  url: https://icml.cc/
+  color: "#2e7d32"
+TPAMI:
+  url: https://ieeexplore.ieee.org/xpl/issTitleA.cfm?pn=34
   color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+TNNLS:
+  url: https://ieeexplore.ieee.org/xpl/issuehome.jsp?number=6789
+  color: "#00369f"
+TCYB:
+  url: https://ieeexplore.ieee.org/xpl/issuehome.jsp?number=6093
+  color: "#00369f"
+PR:
+  url: https://www.sciencedirect.com/journal/pattern-recognition
+  color: "#b31b1b"
+ACM-MM:
+  url: https://dl.acm.org/conference/mm
+  color: "#3935dd"
