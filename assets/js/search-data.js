@@ -30,7 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-have-started-my-visiting-research-position-at-the-department-of-mathematics-hong-kong-baptist-university-kowloon-campus",
+        },{id: "news-my-first-author-paper-npsvc-a-representation-learning-framework-for-nonparallel-classifiers-has-been-accepted-by-ieee-transactions-on-neural-networks-and-learning-systems-tnnls-code-is-available-on-github",
+          title: 'My first-author paper “NPSVC++: A Representation Learning Framework for Nonparallel Classifiers” has been...',
+          description: "",
+          section: "News",},{id: "news-two-papers-i-co-authored-have-been-accepted-as-posters-to-acm-multimedia-2026-nsmnet-stabilizing-linear-state-space-memory-for-breast-ultrasound-video-segmentation-and-a-large-scale-multi-modal-benchmark-and-robust-text-free-inference-for-breast-ultrasound-video-segmentation",
+          title: 'Two papers I co-authored have been accepted as posters to ACM Multimedia 2026:...',
+          description: "",
+          section: "News",},{id: "news-i-have-started-my-visiting-research-position-at-the-department-of-mathematics-hong-kong-baptist-university-kowloon-campus",
           title: 'I have started my visiting research position at the Department of Mathematics, Hong...',
           description: "",
           section: "News",},{id: "projects-joker",
