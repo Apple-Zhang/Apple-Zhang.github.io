@@ -23,3 +23,29 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// -----------------------------------------------------------------------------
+// Customizations
+// -----------------------------------------------------------------------------
+// Homepage profile photo size
+.profile img {
+  max-width: 240px;
+}
+
+// Research interests chips on the homepage
+.research-interests {
+  line-height: 2;
+  .label {
+    font-weight: 600;
+    margin-right: 0.6rem;
+  }
+  .tag {
+    display: inline-block;
+    padding: 0.15rem 0.7rem;
+    margin: 0.15rem 0.25rem;
+    border: 1px solid var(--global-theme-color);
+    border-radius: 999px;
+    color: var(--global-theme-color);
+    font-size: 0.9rem;
+  }
+}
